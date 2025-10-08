@@ -1,8 +1,8 @@
-# Cyclistic Bike-Share Case Study: Converting Casual Riders to Annual Members
+# Cyclistic Case Study: Converting Casual Riders to Annual Members
 
 ## 📊 Project Overview
 
-This repository contains a comprehensive data analysis case study for Cyclistic, a bike-share company in Chicago. As a junior data analyst on the marketing team, I analyzed user behavior patterns to develop strategic recommendations for converting casual riders into annual members, ultimately driving revenue growth.
+This repository contains a comprehensive data analysis case study for Cyclistic, a bike share company in Chicago. As a junior data analyst on the marketing team, I analyzed user behavior patterns to develop strategic recommendations for converting casual riders into annual members, ultimately driving revenue growth.
 
 **Analysis Period:** January 2025 - August 2025  
 **Primary Goal:** Increase annual membership conversions to maximize revenue  
@@ -68,8 +68,8 @@ Key variables analyzed:
 
 ### Data Credibility (ROCCC)
 
-- **Reliable:** First-party data directly from Cyclistic systems
-- **Original:** Source data from actual bike-share transactions
+- **Reliable:** First party data directly from Cyclistic systems
+- **Original:** Source data from actual bike share transactions
 - **Comprehensive:** 8 months of complete trip records
 - **Current:** Recent data from 2025
 - **Cited:** Properly licensed public dataset
@@ -168,12 +168,9 @@ The interactive Power BI dashboard includes:
    - Overlays average duration trends
    - Reveals behavioral differences between user types
 
-## 6. Act
-
-### Top 3 Strategic Recommendations
+## 6. Act (Top 3 Strategy)
 
 ### Recommendation 1: Location Based Conversion Campaign (Q4 2025)
---
 
 **Target Locations:** Top 10 casual heavy stations (Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St, etc.)
 
@@ -187,7 +184,6 @@ The interactive Power BI dashboard includes:
 
 
 ### Recommendation 2: Peak Hour Incentive Program
---
 
 **Target Times:** 7:00-9:00 AM and 4:00-6:00 PM weekdays
 
@@ -201,7 +197,6 @@ The interactive Power BI dashboard includes:
 
 
 ### Recommendation 3: Weekend to Weekday Bridge Program
---
 
 **Target Audience:** Weekend casual riders with 4+ rides per month
 
