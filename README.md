@@ -172,7 +172,7 @@ The interactive Power BI dashboard includes:
 
 ### Top 3 Strategic Recommendations
 
-#### Recommendation 1: Location Based Conversion Campaign (Q4 2025)
+## Recommendation 1: Location Based Conversion Campaign (Q4 2025)
 
 **Target Locations:** Top 10 casual heavy stations (Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St, etc.)
 
@@ -185,7 +185,7 @@ The interactive Power BI dashboard includes:
 **Expected Impact:** 15-20% increase in conversions at targeted locations
 
 
-#### Recommendation 2: Peak Hour Incentive Program
+## Recommendation 2: Peak Hour Incentive Program
 
 **Target Times:** 7:00-9:00 AM and 4:00-6:00 PM weekdays
 
@@ -198,7 +198,7 @@ The interactive Power BI dashboard includes:
 **Expected Impact:** 25% increase in weekday casual to member conversions
 
 
-#### Recommendation 3: Weekend-to-Weekday Bridge Program
+## Recommendation 3: Weekend to Weekday Bridge Program
 
 **Target Audience:** Weekend casual riders with 4+ rides per month
 
@@ -215,7 +215,7 @@ The interactive Power BI dashboard includes:
 **Expected Impact:** 30% trial to paid conversion rate, 10% overall membership growth
 
 
-### Additional Quick-Win Tactics
+## Additional Quick-Win Tactics
 
 **For September-October 2025:**
 - Launch retargeting ads to casual users who haven't ridden in 30 days: "We miss you! Come back with 40% off membership"
