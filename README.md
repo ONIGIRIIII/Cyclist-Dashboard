@@ -344,7 +344,7 @@ Based on 8 months of data analysis:
 
 ## Contact & Portfolio
 
-**Analyst:** [Your Name]  
+**Analyst:** Harshpreet Singh  
 **LinkedIn:** [Your LinkedIn URL]  
 **Portfolio:** [Your Portfolio URL]  
 **Email:** [Your Email]
