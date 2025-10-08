@@ -1,4 +1,3 @@
-# Cyclist-Dashboard
 # Cyclistic Bike-Share Case Study: Converting Casual Riders to Annual Members
 
 ## 📊 Project Overview
