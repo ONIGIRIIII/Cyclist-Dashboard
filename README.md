@@ -218,7 +218,7 @@ The interactive Power BI dashboard includes:
 **Expected Impact:** 30% trial to paid conversion rate, 10% overall membership growth
 
 
-## Additional Quick-Win Tactics
+## 🧩 Additional Tactics
 
 **For September-October 2025:**
 - Launch retargeting ads to casual users who haven't ridden in 30 days: "We miss you! Come back with 40% off membership"
@@ -231,7 +231,7 @@ The interactive Power BI dashboard includes:
 - Year end email to all casual riders showing their 2025 ride stats + potential savings with membership
 
 
-## Key Findings
+## 🔍 Key Findings
 
 ### Behavioral Differences Summary
 
@@ -249,7 +249,7 @@ Based on 8 months of data analysis:
 - **Current casual rider base:** ~45% of total rides
 - **Estimated conversion potential:** 15-25% of casual riders
 
-## Project Workflow
+## 📍 Project Workflow
 
 ```
 ├── data/
@@ -266,7 +266,7 @@ Based on 8 months of data analysis:
     ├── README.md                  
 ```
 
-## Technologies & Skills Demonstrated
+## 🔧 Technologies & Skills Demonstrated
 
 - **Data Analysis:** Excel, SQL, statistical analysis
 - **Data Visualization:** Power BI, interactive dashboards
@@ -275,19 +275,19 @@ Based on 8 months of data analysis:
 - **Project Management:** 6 step data analysis framework
 
 
-## Contact & Portfolio
+## 📱 Contact & Portfolio
 
 **Analyst:** Harshpreet Singh  
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/harshpreet-singh-2331762a4/)  
 **Portfolio:** [Portfolio](https://onigiriii.framer.website/)  
 
-## License & Acknowledgments
+## 🖨️ License & Acknowledgments
 
 Data provided by Motivate International Inc. under license.  
 This case study was completed as part of the Google Data Analytics Professional Certificate.
 
 
-## Next Steps
+## 🪜 Next Steps
 
 To build upon this analysis:
 1. Conduct A/B testing of conversion campaigns at selected stations
