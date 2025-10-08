@@ -8,7 +8,6 @@ This repository contains a comprehensive data analysis case study for Cyclistic,
 **Primary Goal:** Increase annual membership conversions to maximize revenue  
 **Interactive Dashboard:** [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjRkNDZhOWQtYzUwNy00MmRlLWIyMzgtMWIyYjFhMDI5NmViIiwidCI6Ijk4OTk3ZjE3LWI5Y2MtNDVhNy05ZTkxLThhOWFhMTlkMTg5NiJ9)
 
----
 
 ## 📑 Table of Contents
 
@@ -21,7 +20,6 @@ This repository contains a comprehensive data analysis case study for Cyclistic,
 7. [Key Findings](#key-findings)
 8. [Strategic Recommendations](#strategic-recommendations)
 
----
 
 ## 1. Ask
 
@@ -48,7 +46,6 @@ This repository contains a comprehensive data analysis case study for Cyclistic,
 - Maximize revenue from existing casual rider base
 - Develop data-backed marketing strategies for Q4 2025
 
----
 
 ## 2. Prepare
 
@@ -76,14 +73,6 @@ Key variables analyzed:
 - **Comprehensive:** 8 months of complete trip records
 - **Current:** Recent data from 2025
 - **Cited:** Properly licensed public dataset
-
-### Limitations
-
-- Privacy restrictions prevent linking individual users across multiple trips
-- Unable to determine geographic residence of users
-- Cannot connect pass purchases to payment methods
-
----
 
 ## 3. Process
 
@@ -116,9 +105,7 @@ Key variables analyzed:
 - Verified all ride_ids are unique
 - Confirmed date ranges fall within analysis period
 - Validated that member_casual field only contains "member" or "casual"
-- Cross-checked station names against official station list
-
----
+- Cross checked station names against official station list
 
 ## 4. Analyze
 
@@ -126,8 +113,8 @@ Key variables analyzed:
 
 Conducted comprehensive analysis across three key dimensions:
 
-1. **Geographic Analysis:** Location-based usage patterns
-2. **Temporal Analysis:** Time-based behavior patterns
+1. **Geographic Analysis:** Location based usage patterns
+2. **Temporal Analysis:** Time based behavior patterns
 3. **Duration Analysis:** Trip length comparisons
 
 ### Key Calculations
@@ -140,13 +127,13 @@ Conducted comprehensive analysis across three key dimensions:
 
 ### Analytical Insights
 
-#### Finding 1: Location-Based Opportunity
+#### Finding 1: Location Based Opportunity
 The top 10 stations show significantly higher casual ridership compared to annual members, particularly at:
 - Streeter Dr & Grand Ave
 - DuSable Lake Shore Dr & Monroe St
 - Kingsbury St & Kinzie St
 
-**Insight:** These high-traffic casual locations represent prime conversion opportunities.
+**Insight:** These high traffic casual locations represent prime conversion opportunities.
 
 #### Finding 2: Peak Hour Patterns
 Two distinct usage spikes occur at:
@@ -161,7 +148,6 @@ Two distinct usage spikes occur at:
 
 **Insight:** Casual riders use bikes primarily for leisure on weekends, while members use them for daily commuting.
 
----
 
 ## 5. Share
 
@@ -182,40 +168,24 @@ The interactive Power BI dashboard includes:
    - Overlays average duration trends
    - Reveals behavioral differences between user types
 
-### Key Data Stories
-
-**Story 1: The Leisure-to-Commute Opportunity**  
-Casual riders primarily use bikes for longer leisure trips on weekends, while members use them for shorter, frequent commute trips. This suggests casual riders haven't yet discovered the commuting value proposition.
-
-**Story 2: Geographic Concentration**  
-Tourist and recreational areas show disproportionately high casual usage, indicating these locations are ideal for targeted conversion campaigns.
-
-**Story 3: The Untapped Weekday Potential**  
-Significant casual usage exists during weekdays, but with longer durations than member trips. This suggests an opportunity to educate casual riders about membership benefits for regular use.
-
----
-
 ## 6. Act
 
 ### Top 3 Strategic Recommendations
 
-#### Recommendation 1: Location-Based Conversion Campaign (Q4 2025)
+#### Recommendation 1: Location Based Conversion Campaign (Q4 2025)
 
-**Target Locations:** Top 10 casual-heavy stations (Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St, etc.)
+**Target Locations:** Top 10 casual heavy stations (Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St, etc.)
 
 **Tactics:**
-- Install digital signage at high-traffic stations showing membership savings calculator
-- Deploy street teams on weekends to offer limited-time membership discounts (20% off for sign-ups at these locations)
-- Create station-specific QR codes linking to instant membership signup with location-based promotions
-- Partner with nearby businesses to offer "member-exclusive" discounts
+- Install digital signage at high traffic stations showing membership savings calculator
+- Deploy street teams on weekends to offer limited time membership discounts (20% off for sign-ups at these locations)
+- Create station specific QR codes linking to instant membership signup with location based promotions
+- Partner with nearby businesses to offer "member exclusive" discounts
 
 **Expected Impact:** 15-20% increase in conversions at targeted locations
 
-**Budget:** $50,000 for Q4 2025
 
----
-
-#### Recommendation 2: Peak-Hour Incentive Program
+#### Recommendation 2: Peak Hour Incentive Program
 
 **Target Times:** 7:00-9:00 AM and 4:00-6:00 PM weekdays
 
@@ -225,31 +195,25 @@ Significant casual usage exists during weekdays, but with longer durations than 
 - Implement "Fast Pass" lanes for members at busy stations during rush hour
 - Email campaign showing casual users their potential annual savings based on their peak-hour usage history
 
-**Expected Impact:** 25% increase in weekday casual-to-member conversions
+**Expected Impact:** 25% increase in weekday casual to member conversions
 
-**Budget:** $35,000 for Q4 2025
-
----
 
 #### Recommendation 3: Weekend-to-Weekday Bridge Program
 
 **Target Audience:** Weekend casual riders with 4+ rides per month
 
 **Tactics:**
-- **"Weekend Warrior to Weekday Hero"** campaign: Free 30-day trial membership for frequent weekend casual riders
+- **"Weekend Warrior to Weekday Hero"** campaign: Free 30 day trial membership for frequent weekend casual riders
 - Personalized email series highlighting:
   - Cost comparison: casual weekend rides vs. unlimited membership
   - Environmental impact of bike commuting
   - Health benefits of daily cycling
-  - Member testimonials from leisure-riders-turned-commuters
+  - Member testimonials from leisure riders turned commuters
 - Partner with employers near popular stations for corporate membership discounts
 - Create "Commute Starter Kit" for trial members (route planning, safety tips, weather gear recommendations)
 
-**Expected Impact:** 30% trial-to-paid conversion rate, 10% overall membership growth
+**Expected Impact:** 30% trial to paid conversion rate, 10% overall membership growth
 
-**Budget:** $45,000 for Q4 2025
-
----
 
 ### Additional Quick-Win Tactics
 
@@ -261,9 +225,8 @@ Significant casual usage exists during weekdays, but with longer durations than 
 **For November-December 2025:**
 - Holiday gift memberships at discounted rates
 - "New Year, New Ride" campaign positioning membership as fitness/sustainability resolution
-- Year-end email to all casual riders showing their 2025 ride stats + potential savings with membership
+- Year end email to all casual riders showing their 2025 ride stats + potential savings with membership
 
----
 
 ## Key Findings
 
@@ -282,35 +245,8 @@ Significant casual usage exists during weekdays, but with longer durations than 
 Based on 8 months of data analysis:
 - **Current casual rider base:** ~45% of total rides
 - **Estimated conversion potential:** 15-25% of casual riders
-- **Projected revenue increase:** $850,000 - $1.2M annually (assuming avg membership price $99/year)
 
----
-
-## Strategic Roadmap (September - December 2025)
-
-### September
-- Launch location-based conversion campaign at top 10 stations
-- Implement peak-hour incentive tracking system
-- Begin email segmentation for weekend warriors
-
-### October
-- Activate "Commuter Challenge" program
-- Deploy street teams at target locations
-- Launch retargeting ad campaigns
-
-### November
-- Introduce 30-day trial program for weekend riders
-- Launch holiday gift membership promotions
-- Implement corporate partnership program
-
-### December
-- "New Year, New Ride" campaign kickoff
-- Year-end recap emails with savings calculations
-- Measure and report Q4 conversion metrics
-
----
-
-## Project Files
+## Project Workflow
 
 ```
 ├── data/
@@ -324,38 +260,29 @@ Based on 8 months of data analysis:
 │   ├── dashboard.pbix          # Power BI dashboard file
 │   └── screenshots/            # Dashboard screenshots
 ├── documentation/
-│   ├── data_dictionary.md      # Variable definitions
-│   └── analysis_notes.md       # Detailed analysis notes
-└── README.md                   # This file
+    ├── README.md                  
 ```
-
----
 
 ## Technologies & Skills Demonstrated
 
 - **Data Analysis:** Excel, SQL, statistical analysis
 - **Data Visualization:** Power BI, interactive dashboards
 - **Business Intelligence:** KPI development, strategic recommendations
-- **Communication:** Executive-level reporting, storytelling with data
-- **Project Management:** 6-step data analysis framework
+- **Communication:** Executive level reporting, storytelling with data
+- **Project Management:** 6 step data analysis framework
 
----
 
 ## Contact & Portfolio
 
 **Analyst:** Harshpreet Singh  
-**LinkedIn:** [Your LinkedIn URL]  
-**Portfolio:** [Your Portfolio URL]  
-**Email:** [Your Email]
-
----
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/harshpreet-singh-2331762a4/)  
+**Portfolio:** [Portfolio](https://onigiriii.framer.website/)  
 
 ## License & Acknowledgments
 
 Data provided by Motivate International Inc. under license.  
 This case study was completed as part of the Google Data Analytics Professional Certificate.
 
----
 
 ## Next Steps
 
@@ -365,7 +292,5 @@ To build upon this analysis:
 3. Analyze retention rates of converted casual riders
 4. Develop predictive model for conversion likelihood scoring
 5. Expand analysis to include seasonal weather impact on ridership
-
----
 
 *Last Updated: October 2025*
